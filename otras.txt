@@ -1,0 +1,14 @@
+Trabajo práctico:
+Crear un repositorio en Github con el nombre examenItgrarte
+Clonar este repositorio mediante SSH.
+Crear un archivo con el nombre comandos.
+En el archivo pegar las preguntas y respuestas 9 a 15 de este examen.
+hacer commit.
+Asignarle la etiqueta comandos a el commit recién hecho.
+enviar los cambios al repositorio remoto.
+crear una rama con el nombre otras y cambiarse a ella.
+Crear un archivo con el nombre otras.
+En el archivo pegar las preguntas y respuestas restantes.
+combinar la rama principal con la rama otras.
+enviar los cambios al repositorio remoto.
+pegar el enlace de su repositorio en el siguiente cuadro de edición.
